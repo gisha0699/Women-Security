@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "179955359864",
+    "firebase_url": "https://stree-a8db4.firebaseio.com",
+    "project_id": "stree-a8db4",
+    "storage_bucket": "stree-a8db4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179955359864:android:7738fe742be9f442",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179955359864-udnq52nfplbdsoir7k6onlo1a44lhtl7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login",
+            "certificate_hash": "a36aadf255931a3a2cf7c2100f93e2593e784cb4"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN5L5YCdy_6WFy3pyFy2A0HaxeGIc-Q04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179955359864-66qr5eubji1gn3de965480mmlivhuj30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

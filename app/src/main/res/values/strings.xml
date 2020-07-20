@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="number">Number</string>
+    <string name="add">Add</string>
+    <string name="todo">TODO</string>
+    <string name="name">Name</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+
+    <string name="no_of_attempts_remaining">No of attempts remaining:</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="new_user_sign_up">New User? Sign Up!</string>
+    <string name="edit">Edit</string>
+    <string name="changepassword">ChangePassword</string>
+    <string name="Name">Name:</string>
+    <string name="Number">Number:</string>
+    <string name="Email">Email:</string>
+    <string name="contact_name">Contact Name</string>
+
+    <string name="add_contact">Add Contact</string>
+    <string name="add_emergency_contacts">Add Emergency contacts</string>
+    <string name="share_location">Share Location</string>
+    <string name="get_contacts">Get Contacts</string>
+    <string name="view_emergency_contact_list">View Emergency Contact List</string>
+    <string name="click_on_contact_to_add_to_emergency_contacts">click_on_contact_to_add_to_emergency_contacts</string>
+    <string name="location">Location</string>
+    <string name="get_location">Get Location</string>
+    <string name="contacts_on_device">Contacts On Device</string>
+    <string name="appwidget_text">SOS</string>
+    <string name="add_widget">Add widget</string>
+    <string name="email_id">Email-id</string>
+
+</resources>
